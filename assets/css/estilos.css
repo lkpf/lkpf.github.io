@@ -847,12 +847,21 @@
         top: 0px!important;
         right: 0px !important;
         bottom: 0px !important;
+        align-self: center !important;
 
     }
 
     .portfolio-container{
 
         height: auto !important;
+        justify-content: center !important;
+        margin: 0 auto !important;
+
+    }
+
+    .experiencia{
+
+        margin: auto !important;
 
     }
 
