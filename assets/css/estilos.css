@@ -813,4 +813,26 @@
       right: 0;
       transform: translateX(-50%);
     }
+
+    .portfolio-container{
+
+        display: flex !important;
+        flex-wrap: wrap !important;
+        max-width: 100% !important;
+        position: relative !important;
+
+    }
+
+    .portfolio-item{
+
+        max-width: 50% !important;
+        position: relative !important;
+        width: 50% !important;
+        left: 0px!important;
+        top: 0px!important;
+        right: 0px !important;
+        bottom: 0px !important;
+
+    }
   }
+
