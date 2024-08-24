@@ -861,9 +861,14 @@
 
     .experiencia{
 
-        margin: auto !important;
+        margin: 12px auto !important;
 
     }
 
+    .educacion{
+
+        margin: 10px 0px !important;
+
+    }
 
   }
