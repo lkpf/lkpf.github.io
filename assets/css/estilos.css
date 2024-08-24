@@ -836,3 +836,25 @@
     }
   }
 
+  @media (max-width: 519px){
+
+    .portfolio-item{
+
+        max-width: 100% !important;
+        position: relative !important;
+        width: 100% !important;
+        left: 0px!important;
+        top: 0px!important;
+        right: 0px !important;
+        bottom: 0px !important;
+
+    }
+
+    .portfolio-container{
+
+        height: auto !important;
+
+    }
+
+
+  }
